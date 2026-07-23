@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Moataz 👋
 
-<!--
-**Moataz-Hamam/Moataz-Hamam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BSc Student – Mobile Software Development @ FH Joanneum Graz  
+📍 Graz, Austria  
+📬 moatazalhamam@gmail.com
 
-Here are some ideas to get you started:
+## About Me
+I'm a software development student with a background in 
+Biomedical Engineering. I enjoy building things from scratch 
+and learning by doing — whether it's a game, a web app, 
+or working through data structures.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently looking for a part-time internship 
+starting October 2025 (dual study program).
+
+## 🛠️ Tech Stack
+- **Languages:** Java (OOP), JavaScript, Python (learning)
+- **Mobile & Design:** UI/UX, FlutterFlow
+- **Databases:** SQL, PostgreSQL
+- **Systems:** Linux CLI, Git
+- **Web:** HTML, CSS, JavaScript
+
+## 📂 Projects
+| Project | Description | Tech |
+|--------|-------------|------|
+| [CatchTheBall](https://github.com/Moataz-Hamam/CatchTheBall-p5-js) | Browser game built with p5.js | JavaScript |
+| [Datenstrukturen Aufgaben](https://github.com/Moataz-Hamam/Datenstrukturen_Aufgabe1) | DSA exercises – linked lists, sorting | Java/Python |
+| My2webS | Web development project | HTML/CSS/JS |
+
+## 📊 GitHub Stats
+![Moataz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moataz-Hamam&show_icons=true&theme=dark)
