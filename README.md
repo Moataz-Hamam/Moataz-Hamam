@@ -28,4 +28,5 @@ starting October 2025 (dual study program).
 | My2webS | Web development project | HTML/CSS/JS |
 
 ## 📊 GitHub Stats
-![Moataz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moataz-Hamam&show_icons=true&theme=dark)
+![Moataz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moataz-Hamam&show_icons=true&theme=dark&hide_border=true&count_private=true)
+
