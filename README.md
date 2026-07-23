@@ -25,7 +25,7 @@ starting October 2025 (dual study program).
 |--------|-------------|------|
 | [CatchTheBall](https://github.com/Moataz-Hamam/CatchTheBall-p5-js) | Browser game built with p5.js | JavaScript |
 | [Datenstrukturen Aufgaben](https://github.com/Moataz-Hamam/Datenstrukturen_Aufgabe1) | DSA exercises – linked lists, sorting | Java/Python |
-| My2webS | Web development project | HTML/CSS/JS |
+| [SicherheitsCheck](https://github.com/Moataz-Hamam/My2webS) | Mobile-first web app for workplace safety inspections with PDF generation | HTML/CSS/JS |
 
 
 ## 📫 Contact Me
