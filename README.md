@@ -27,8 +27,6 @@ starting October 2025 (dual study program).
 | [Datenstrukturen Aufgaben](https://github.com/Moataz-Hamam/Datenstrukturen_Aufgabe1) | DSA exercises – linked lists, sorting | Java/Python |
 | My2webS | Web development project | HTML/CSS/JS |
 
-## 📊 GitHub Activity
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Moataz-Hamam&layout=compact&theme=dark)
 
 ## 📫 Contact Me
 - 📧 moatazalhamam@gmail.com
